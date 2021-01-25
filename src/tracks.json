@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+
+    "name": "BEAT01: Human",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439143/MB_2019-08-13_cruisin_towmgt.mp3"
+  },
+
+  {
+    "id": 2,
+
+    "name": "BEAT02: See you Go",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439157/MB217_2019-08-23_vfhpyz.mp3"
+  },
+  {
+    "id": 3,
+
+    "name": "BEAT03: Powerless",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611203217/01-03-_Powerless_gnivua.mp3"
+  },
+  {
+    "id": 4,
+
+    "name": "BEAT04: Strange Things",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439150/strange-tings_vikzqy.mp3"
+  },
+  {
+    "id": 5,
+
+    "name": "BEAT05: Somebody",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439145/somebody_audvpv.mp3"
+  },
+  {
+    "id": 6,
+
+    "name": "BEAT06: Change",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439145/change_m2tmpn.mp3"
+  },
+  {
+    "id": 7,
+
+    "name": "BEAT07: Small Steps",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439143/small-steps_uaq81h.mp3"
+  },
+  {
+    "id": 8,
+
+    "name": "BEAT08: Body",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439141/body_upihmf.mp3"
+  },
+  {
+    "id": 9,
+
+    "name": "BEAT09: Playing",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439137/playin_ywhaku.mp3"
+  },
+  {
+    "id": 10,
+    "name": "BEAT10: Touch and Go",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439157/MB217_2019-08-23_vfhpyz.mp3"
+  },
+
+  {
+    "id": 11,
+
+    "name": "BEAT11: Sleeping",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439158/sleeping_igiklw.mp3"
+  },
+  {
+    "id": 10,
+
+    "name": "BEAT12: Why",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439159/why_iv9yoe.mp3"
+  },
+  {
+    "id": 10,
+
+    "name": "BEAT13: Stand Alone",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611439156/stand-alone_juzeez.mp3"
+  },
+  {
+    "id": 10,
+
+    "name": "BEAT14: Loose It",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611440161/lose-it_b59mcr.mp3"
+  },
+  {
+    "id": 10,
+
+    "name": "BEAT15: Hold It",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611440267/hold-it_gx3ugp.mp3"
+  },
+  {
+    "id": 10,
+
+    "name": "BEAT16: Lets Go",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611440330/let-go_rwm8dt.mp3"
+  },
+  {
+    "id": 10,
+
+    "name": "BEAT17: Really Wanna",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611440412/me-and-you_dsibti.mp3"
+  },
+  {
+    "id": 10,
+
+    "name": "BEAT18: Me And You",
+    "Artist": "Brent Jackson",
+    "beat": "https://res.cloudinary.com/dzg7p88c8/video/upload/v1611440412/me-and-you_dsibti.mp3"
+  }
+]
